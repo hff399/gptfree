@@ -1,0 +1,133 @@
+2023-09-09 22:01:22.749 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-09 22:01:22.749 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-09 22:01:22.749 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-09 22:01:22.823 [info] VS Code was launched from an activated environment: 'venv', selecting it as the interpreter for workspace.
+2023-09-09 22:01:22.826 [info] Test server listening.
+2023-09-09 22:01:22.869 [info] > conda info --json
+2023-09-09 22:01:23.153 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-09 22:01:23.153 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-09 22:01:23.153 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-09 22:01:23.153 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-09 22:01:23.154 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-09 22:01:23.154 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-09 22:01:23.154 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-09-09 22:01:23.203 [info] > C:\Users\lmish\code\ai\NeuroGPT\venv\Scripts\python.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:23.225 [info] > C:\Users\lmish\AppData\Local\Microsoft\WindowsApps\python3.11.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:23.381 [info] > C:\Users\lmish\AppData\Local\Programs\Python\Python310\python.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:23.385 [info] Python interpreter path: C:\Users\lmish\code\ai\NeuroGPT\venv\Scripts\python.exe
+2023-09-09 22:01:23.452 [warning] Identifier for virt-virtualenv failed to identify C:\Users\lmish\AppData\Local\Programs\Python\Python311\python.exe [Error: ENOENT: no such file or directory, scandir 'C:\Users\lmish\AppData\Local\Programs\Python\Python311'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: 'C:\\Users\\lmish\\AppData\\Local\\Programs\\Python\\Python311'
+}
+2023-09-09 22:01:23.467 [info] > C:\Users\lmish\AppData\Local\Programs\Python\Python311\python.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:23.491 [error] [Error: Command failed: C:\Users\lmish\AppData\Local\Programs\Python\Python311\python.exe -I c:\tmp\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\tmp\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:304:5)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\lmish\\AppData\\Local\\Programs\\Python\\Python311\\python.exe -I c:\\tmp\\.vscode\\extensions\\ms-python.python-2023.14.0\\pythonFiles\\get_output_via_markers.py c:\\tmp\\.vscode\\extensions\\ms-python.python-2023.14.0\\pythonFiles\\interpreterInfo.py'
+}
+2023-09-09 22:01:25.502 [info] > C:\Users\lmish\AppData\Local\Programs\Python\Python311\python.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:25.523 [error] [Error: Command failed: C:\Users\lmish\AppData\Local\Programs\Python\Python311\python.exe -I c:\tmp\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\tmp\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+The system cannot find the path specified.
+
+	at ChildProcess.exithandler (node:child_process:409:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1121:16)
+	at ChildProcess._handle.onexit (node:internal/child_process:304:5)] {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\lmish\\AppData\\Local\\Programs\\Python\\Python311\\python.exe -I c:\\tmp\\.vscode\\extensions\\ms-python.python-2023.14.0\\pythonFiles\\get_output_via_markers.py c:\\tmp\\.vscode\\extensions\\ms-python.python-2023.14.0\\pythonFiles\\interpreterInfo.py'
+}
+2023-09-09 22:01:25.558 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-09 22:01:27.159 [info] Starting Pylance language server.
+2023-09-09 22:01:36.398 [info] Running Env creation script:  [
+  'C:\\Users\\lmish\\AppData\\Local\\Programs\\Python\\Python310\\python.exe',
+  'c:\\tmp\\.vscode\\extensions\\ms-python.python-2023.14.0\\pythonFiles\\create_venv.py',
+  '--git-ignore'
+]
+2023-09-09 22:01:36.647 [info] Running: C:\Users\lmish\AppData\Local\Programs\Python\Python310\python.exe -m venv .venv
+
+2023-09-09 22:01:37.964 [info] > .\.venv\Scripts\python.exe -I c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\get_output_via_markers.py c:\~\.vscode\extensions\ms-python.python-2023.14.0\pythonFiles\interpreterInfo.py
+2023-09-09 22:01:39.212 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\setuptools\windows_support.py
+2023-09-09 22:01:39.701 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\setuptools\extern\__init__.py
+2023-09-09 22:01:41.916 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\pip\_vendor\urllib3\response.py
+2023-09-09 22:01:42.212 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\pip\_vendor\urllib3\contrib\securetransport.py
+2023-09-09 22:01:46.478 [info] CREATED_VENV:c:\Users\lmish\code\ai\gptfree\.venv\Scripts\python.exe
+Creating: c:\Users\lmish\code\ai\gptfree\.venv\.gitignore
+
+2023-09-09 22:01:46.480 [info] CREATE_VENV.UPGRADING_PIP
+Running: c:\Users\lmish\code\ai\gptfree\.venv\Scripts\python.exe -m pip install --upgrade pip
+
+2023-09-09 22:01:47.032 [info] Requirement already satisfied: pip in c:\users\lmish\code\ai\gptfree\.venv\lib\site-packages (23.0.1)
+
+2023-09-09 22:01:47.242 [info] Collecting pip
+
+2023-09-09 22:01:47.432 [info]   Downloading pip-23.2.1-py3-none-any.whl (2.1 MB)
+
+2023-09-09 22:01:48.157 [info]      ---------------------------------------- 2.1/2.1 MB
+2023-09-09 22:01:48.157 [info]  2.8 MB/s eta 0:00:00
+2023-09-09 22:01:48.157 [info] 
+
+2023-09-09 22:01:48.220 [info] Installing collected packages: pip
+
+2023-09-09 22:01:48.220 [info]   Attempting uninstall: pip
+
+2023-09-09 22:01:48.221 [info]     Found existing installation: pip 23.0.1
+
+2023-09-09 22:01:48.744 [info]     Uninstalling pip-23.0.1:
+
+2023-09-09 22:01:48.768 [info]       Successfully uninstalled pip-23.0.1
+
+2023-09-09 22:01:49.735 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py
+2023-09-09 22:01:53.297 [info] Successfully installed pip-23.2.1
+
+2023-09-09 22:01:53.589 [info] CREATE_VENV.UPGRADED_PIP
+
+2023-09-09 22:01:53.615 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree
+2023-09-09 22:01:53.616 [info] Python interpreter path: .\.venv\Scripts\python.exe
+2023-09-09 22:01:53.725 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\~ip\_vendor\rich\default_styles.py
+2023-09-09 22:02:10.020 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\werkzeug\wsgi.py
+2023-09-09 22:02:10.542 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\werkzeug\wrappers\response.py
+2023-09-09 22:02:11.052 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\jinja2\visitor.py
+2023-09-09 22:02:11.510 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\flask\wrappers.py
+2023-09-09 22:02:32.732 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\flask_cors\version.py
+2023-09-09 22:02:44.820 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\tmp\pip-install-yt40abaq\pyjsparser_d47585368bc84e11a38f2039d05bb851\setup.py
+2023-09-09 22:02:47.120 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\tmp\pip-build-env-9j14_jlg\overlay\Lib\site-packages\setuptools\_vendor\zipp.py
+2023-09-09 22:02:47.635 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\tmp\pip-build-env-9j14_jlg\overlay\Lib\site-packages\setuptools\extern\__init__.py
+2023-09-09 22:02:54.389 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\tmp\pip-install-yt40abaq\pyjsparser_d47585368bc84e11a38f2039d05bb851\build\lib\pyjsparser\std_nodes.py
+2023-09-09 22:02:54.893 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\websockets\version.py
+2023-09-09 22:02:55.390 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\urllib3\util\wait.py
+2023-09-09 22:02:56.090 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\tzdata\zoneinfo\US\__init__.py
+2023-09-09 22:02:56.389 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\six.py
+2023-09-09 22:02:58.417 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\Crypto\__init__.py
+2023-09-09 22:02:58.903 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\Crypto\Util\strxor.py
+2023-09-09 22:03:00.415 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\pycparser\yacctab.py
+2023-09-09 22:03:00.793 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\multidict\_multidict_py.py
+2023-09-09 22:03:01.297 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\frozenlist\__init__.py
+2023-09-09 22:03:01.806 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\yarl\_url.py
+2023-09-09 22:03:02.280 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\js2py\utils\injector.py
+2023-09-09 22:03:04.776 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\curl_cffi\requests\session.py
+2023-09-09 22:03:05.270 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\.venv\Lib\site-packages\aiohttp\worker.py
+2023-09-09 22:03:05.952 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\tmp\pip-build-env-9j14_jlg\overlay\Lib\site-packages\wheel\vendored\packaging\requirements.py
+2023-09-09 22:06:50.366 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\dvyr.py
+2023-09-09 22:07:01.254 [info] Discover tests for workspace name: gptfree - uri: c:\Users\lmish\code\ai\gptfree\app.py
+2023-09-09 22:07:42.940 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\9RQD.py
+2023-09-09 22:07:59.102 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\SkVd.py
+2023-09-09 22:08:12.940 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\iXel.py
+2023-09-09 22:08:38.752 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\vEy4.py
+2023-09-09 22:08:54.075 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\Olta.py
+2023-09-09 22:09:05.114 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\BJMV.py
+2023-09-09 22:09:29.269 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\7Zvc.py
+2023-09-09 22:09:58.027 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\32DR.py
+2023-09-09 22:10:15.857 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\zh85.py
+2023-09-09 22:10:51.131 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\TAfj.py
+2023-09-09 22:11:16.581 [info] Discover tests for workspace name: undefined - uri: c:\Users\lmish\code\ai\gptfree\tmp\Code\User\History\34619471\kIzv.py

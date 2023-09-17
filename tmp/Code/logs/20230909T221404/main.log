@@ -1,0 +1,8 @@
+2023-09-09 22:14:04.434 [info] update#setState idle
+2023-09-09 22:14:04.471 [error] Error: Unable to read file '\tmp\.vscode\argv.json' (Error: Unable to resolve nonexistent file '\tmp\.vscode\argv.json')
+    at k.w (C:\Program Files\Microsoft VS Code\resources\app\out\vs\code\electron-main\main.js:42:21335)
+    at k.v (C:\Program Files\Microsoft VS Code\resources\app\out\vs\code\electron-main\main.js:42:21130)
+    at async k.u (C:\Program Files\Microsoft VS Code\resources\app\out\vs\code\electron-main\main.js:42:20582)
+    at async pt.P (C:\Program Files\Microsoft VS Code\resources\app\out\vs\code\electron-main\main.js:89:64514)
+2023-09-09 22:14:06.949 [warning] updateWindowsJumpList#setJumpList unexpected result: error
+2023-09-09 22:14:08.959 [info] Extension host with pid 4596 exited with code: 0, signal: unknown.

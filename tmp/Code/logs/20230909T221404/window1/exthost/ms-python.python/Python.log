@@ -1,0 +1,6 @@
+2023-09-09 22:14:06.846 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-09 22:14:06.847 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-09 22:14:06.847 [info] Experiment 'pythonTestAdaptercf' is active
+2023-09-09 22:14:06.912 [info] VS Code was launched from an activated environment: '.venv', selecting it as the interpreter for workspace.
+2023-09-09 22:14:06.916 [info] Test server listening.
+2023-09-09 22:14:06.937 [info] Python interpreter path: .\.venv\Scripts\python.exe

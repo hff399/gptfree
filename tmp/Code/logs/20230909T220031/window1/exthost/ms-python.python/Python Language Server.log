@@ -1,0 +1,33 @@
+2023-09-09 22:01:27.142 [info] [Info  - 10:01:27 PM] (9012) Pylance language server 2023.9.10 (pyright c70adefc) starting
+2023-09-09 22:01:27.142 [info] [Info  - 10:01:27 PM] (9012) Server root directory: c:\tmp\.vscode\extensions\ms-python.vscode-pylance-2023.9.10\dist
+2023-09-09 22:01:27.143 [info] [Info  - 10:01:27 PM] (9012) Starting service instance "gptfree"
+2023-09-09 22:01:27.185 [info] [Info  - 10:01:27 PM] (9012) Setting pythonPath for service "gptfree": "C:\Users\lmish\code\ai\NeuroGPT\venv\Scripts\python.exe"
+2023-09-09 22:01:27.185 [info] [Info  - 10:01:27 PM] (9012) Setting pythonPath for service "gptfree": "C:\Users\lmish\code\ai\NeuroGPT\venv\Scripts\python.exe"
+2023-09-09 22:01:27.187 [info] [Warn  - 10:01:27 PM] (9012) stubPath c:\Users\lmish\code\ai\gptfree\typings is not a valid directory.
+2023-09-09 22:01:27.269 [info] [Info  - 10:01:27 PM] (9012) Assuming Python version 3.11
+2023-09-09 22:01:27.439 [info] [Info  - 10:01:27 PM] (9012) Found 1 source file
+2023-09-09 22:01:35.373 [info] [Info  - 10:01:35 PM] (9012) [IDX(2)] Long operation: index execution environment c:\Users\lmish\code\ai\gptfree (6044ms)
+2023-09-09 22:01:35.410 [info] [Info  - 10:01:35 PM] (9012) [IDX(2)] Long operation: index packages c:\Users\lmish\code\ai\gptfree (6084ms)
+2023-09-09 22:01:53.625 [info] [Info  - 10:01:53 PM] (9012) Setting pythonPath for service "gptfree": "c:\Users\lmish\code\ai\gptfree\.venv\Scripts\python.exe"
+2023-09-09 22:01:53.625 [info] [Info  - 10:01:53 PM] (9012) Setting pythonPath for service "gptfree": "c:\Users\lmish\code\ai\gptfree\.venv\Scripts\python.exe"
+2023-09-09 22:01:53.633 [info] [Warn  - 10:01:53 PM] (9012) stubPath c:\Users\lmish\code\ai\gptfree\typings is not a valid directory.
+2023-09-09 22:01:53.705 [info] [Info  - 10:01:53 PM] (9012) Assuming Python version 3.10
+2023-09-09 22:01:53.848 [info] [Info  - 10:01:53 PM] (9012) Found 1 source file
+2023-09-09 22:02:45.065 [info] [Info  - 10:02:45 PM] (9012) Found 7 source files
+2023-09-09 22:02:47.562 [info] [Info  - 10:02:47 PM] (9012) Found 253 source files
+2023-09-09 22:02:48.067 [info] [Info  - 10:02:48 PM] (9012) Found 253 source files
+2023-09-09 22:02:54.716 [info] [Info  - 10:02:54 PM] (9012) Found 257 source files
+2023-09-09 22:03:06.349 [info] [Info  - 10:03:06 PM] (9012) Found 1 source file
+2023-09-09 22:06:50.650 [info] [Info  - 10:06:50 PM] (9012) Found 2 source files
+2023-09-09 22:06:51.243 [info] [Info  - 10:06:51 PM] (9012) Found 2 source files
+2023-09-09 22:07:43.223 [info] [Info  - 10:07:43 PM] (9012) Found 3 source files
+2023-09-09 22:07:59.534 [info] [Info  - 10:07:59 PM] (9012) Found 4 source files
+2023-09-09 22:08:13.208 [info] [Info  - 10:08:13 PM] (9012) Found 5 source files
+2023-09-09 22:08:39.198 [info] [Info  - 10:08:39 PM] (9012) Found 6 source files
+2023-09-09 22:08:54.497 [info] [Info  - 10:08:54 PM] (9012) Found 7 source files
+2023-09-09 22:09:05.476 [info] [Info  - 10:09:05 PM] (9012) Found 8 source files
+2023-09-09 22:09:29.505 [info] [Info  - 10:09:29 PM] (9012) Found 9 source files
+2023-09-09 22:09:58.256 [info] [Info  - 10:09:58 PM] (9012) Found 10 source files
+2023-09-09 22:10:16.302 [info] [Info  - 10:10:16 PM] (9012) Found 11 source files
+2023-09-09 22:10:51.389 [info] [Info  - 10:10:51 PM] (9012) Found 12 source files
+2023-09-09 22:11:16.820 [info] [Info  - 10:11:16 PM] (9012) Found 13 source files

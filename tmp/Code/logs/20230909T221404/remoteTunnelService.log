@@ -1,0 +1,2 @@
+2023-09-09 22:14:07.058 [error] status error(undefined): + Error: spawn c:\Program Files\Microsoft VS Code\bin\code-tunnel.exe ENOENT 
+2023-09-09 22:14:07.059 [error] undefined
